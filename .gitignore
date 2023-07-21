@@ -1,0 +1,91 @@
+# Django project settings
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.egg-info/
+dist/
+build/
+media/
+staticfiles/
+.env
+db.sqlite3
+
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+*.vscode/
+
+# Dependency directories
+/bin/
+/lib/
+/lib64/
+/include/
+/Scripts/
+/Downloads/
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite3
+*.db
+*.db.sqlite3
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+__pycache__/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+.DS_Store?
+
+# Document files
+*.pdf
+*.docx
+
+# Compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Compression and packaging
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Miscellaneous
+desktop.ini
+*.project
+*.pydevproject
+*~.nib
+*.swp
+/portfolio/notes
