@@ -1,3 +1,3 @@
 echo "Build Started"
-python -m pip install requirements.txt
-python manage.py collectstatic --noinput --clear
+python3.9 -m pip install -r requirements.txt
+python3.9 manage.py collectstatic --noinput --clear
