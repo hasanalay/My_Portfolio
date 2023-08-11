@@ -28,4 +28,4 @@ def index(request):
         'portfolios': portfolios,
         'contacts': contacts,}
     
-    return render(request, 'Templates/index.html', context)
+    return render(request, 'index.html', context)
