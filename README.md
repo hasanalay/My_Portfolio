@@ -1,4 +1,4 @@
-#  Hasan ALAY (portfolio)[hasanalay.vercel.app]webpage 
+#  Hasan ALAY (portfolio)[hasanalay.vercel.app] webpage 
 
 A personal portfolio webpage which is inspired from this [video](https://www.youtube.com/watch?v=2rSA78z_VOo)
 
