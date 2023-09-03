@@ -1,6 +1,6 @@
 #  Hasan ALAY [portfolio](https://hasanalay.vercel.app/) webpage 
 
 
-A personal portfolio webpage which is inspired from this [video](https://www.youtube.com/watch?v=2rSA78z_VOo)
+A personal portfolio webpage
 
 new functionalities and new readme file will be committed. 
